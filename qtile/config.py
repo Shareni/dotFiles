@@ -246,9 +246,9 @@ layouts = [
     Plasma(
         border_normal='#4c566a',
         border_focus='#5e81ac',
-        border_normal_fixed='#006863',
-        border_focus_fixed='#00e8dc',
-        border_width=2,
+        border_normal_fixed='#4c566a',
+        border_focus_fixed='#5e81ac',
+        border_width=1,
         border_width_single=0,
         margin=5
     ),
