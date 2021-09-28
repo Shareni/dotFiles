@@ -1,0 +1,27 @@
+    OpenRGB v0.6
+    Commit: 405ff7f6a568364503b5dc789b4cfafc4f8c8200 from 2021-06-01 00:05:08 -0500
+    Launched: 20210830_215218
+====================================================================================================
+
+Notice: Detection started
+Notice: Initializing HID interfaces: Success
+Notice: Detecting I2C interfaces
+Notice: Detecting I2C devices
+Notice: Detecting HID devices
+Notice: Detecting other devices
+Notice: Detection completed
+Notice: Loading plugins
+Notice: Detection started
+Notice: Initializing HID interfaces: Success
+Notice: Detecting I2C interfaces
+Notice: Detecting I2C devices
+Notice: Detecting HID devices
+Notice: Detecting other devices
+Notice: Detection completed
+Notice: Detection started
+Notice: Initializing HID interfaces: Success
+Notice: Detecting I2C interfaces
+Notice: Detecting I2C devices
+Notice: Detecting HID devices
+Notice: Detecting other devices
+Notice: Detection completed
