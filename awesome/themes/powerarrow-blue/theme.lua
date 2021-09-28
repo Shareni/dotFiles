@@ -421,6 +421,7 @@ function theme.at_screen_connect(s)
             arrow("#44475a", "alpha"),
             --]]
             s.mylayoutbox,
+            awful.widget.keyboardlayout:new (),
             wibox.widget.systray(),
         },
     }
